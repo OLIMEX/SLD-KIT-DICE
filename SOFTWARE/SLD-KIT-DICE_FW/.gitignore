@@ -1,0 +1,4 @@
+.pio/
+*.bin
+# ready-to-flash images, copied here by scripts/copy_firmware.py
+!firmware/*.bin
